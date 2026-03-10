@@ -68,7 +68,7 @@ Dense Layer (Sigmoid)
 ---
 
 
-### Layer Description
+# 🧪 Layer Description
 
 **Embedding Layer**  
 Transforms words into dense vector representations.
